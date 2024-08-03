@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0pc;
+    box-sizing: border-box;
+}
+.navbar-brand
+{
+    margin-left: 50px;
+}
+.bg-color
+{
+    background-color: transparent;
+}
+.navbar .collapse
+{
+    margin-right: 50px;
+}
+.navbar-nav .nav-item
+{
+    padding: 10px;
+}
+.nav-item:hover
+{
+    background-color: aqua;
+    color:#ffff;
+    border-radius: 20px;
+}
